@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Reader</string>
+    <string name="htm"><![CDATA[
+    <h2>Title</h2>
+    <br><p>Description here</p>
+]]></string>
+
+</resources>

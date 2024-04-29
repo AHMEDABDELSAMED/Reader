@@ -1,0 +1,8 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="20dp"  /> <!-- قيمة الزاوية المنحنية -->
+    <solid android:color="#F8F3F5" /> <!-- لون الخلفية -->
+    <stroke
+        android:width="2dp"
+        android:color="#FFFFFF" /> <!-- لون وعرض الحدود -->
+</shape>
